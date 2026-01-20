@@ -1,0 +1,8 @@
+{
+  "name": "Expat ASECNA Campaign - Flight for Excellence",
+  "description": "A professional, aviation-themed election campaign website for the Secretary General candidate of Expat ASECNA, featuring a bio, campaign program, and an AI-powered campaign assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
